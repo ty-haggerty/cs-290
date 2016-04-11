@@ -1,0 +1,30 @@
+
+t1 {
+  color: red;               
+  }
+  
+test2{
+  color: blue;
+}
+
+tbody tr:nth-of-type(odd){
+  background-color: yellow;
+}
+
+tbody tr:nth-of-type(even){
+  background-color: #00FF00;
+}
+
+.outer-content{
+   background-color: pink;
+   width: 75%;
+   margin-top: 20px;
+   padding: 15px;
+}
+
+.inner-content{
+  background-color: blue;
+  width: 75%;
+  margin: 0 auto;
+}
+
